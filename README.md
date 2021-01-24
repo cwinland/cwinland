@@ -2,7 +2,7 @@
 
 I'm a 25+ years software developer and consultant. About half of that time is with @microsoft.
 
-Solving problems and challenges with code is my passion. Before now, i never published any work, so please keep a look out for new and exciting things. 
+Solving problems and challenges with code is my passion. Before now, I never published any work, so please keep a look out for new and exciting things. 
 
 Please let me know if you have any ideas! 
 
