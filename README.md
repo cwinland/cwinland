@@ -10,7 +10,7 @@ Languages: C#, T-SQL, JavaScript, and many more.
 
 Please let me know if you have any ideas! 
 
-In my free time, I'm also a sound engineer and producer. My wife is a professional singer, songwriter, and producer:https://youtube.com/playlist?list=PLtHb7y9Z3TYoc5VUhfp1KJjpozVjyiKce
+In my free time, I'm also a sound engineer and producer. My wife is a professional singer, songwriter, and producer: https://youtube.com/playlist?list=PLtHb7y9Z3TYoc5VUhfp1KJjpozVjyiKce
  
 Together we rule our world! 
 
