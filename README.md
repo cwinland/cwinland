@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cwinland/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopherwinland/)
+[![NuGet](https://img.shields.io/badge/-NuGet-darkblue?style=flat&logo=NuGet&logoColor=white)](https://www.nuget.org/profiles/cwinland/)
 
 I'm a 25+ years software developer and consultant. About half of that time is with [Microsoft](https://github.com/microsoft).
 
